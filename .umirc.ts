@@ -13,7 +13,7 @@ const config: IConfig = {
         },
         {
           path: '/',
-          component: '../pages/index',
+          component: './demo',
         },
       ],
     },
